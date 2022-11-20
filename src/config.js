@@ -39,7 +39,7 @@ const config = {
   test: { },
   development: {
     mongo: {
-      uri: 'mongodb+srv://phong:123@cluster0.6ny08.mongodb.net/toeicTestDB?retryWrites=true&w=majority',
+      uri: 'mongodb+srv://phong:DBsYuepiKfi5L9XG@cluster0.6ny08.mongodb.net/?retryWrites=true&w=majority',
       options: {
         debug: true
       }
